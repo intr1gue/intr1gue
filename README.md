@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intr1gue
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Data Analytics
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...nothing atm
 - 📫 How to reach me ...email
 
